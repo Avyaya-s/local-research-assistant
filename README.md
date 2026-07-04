@@ -292,4 +292,4 @@ This project was built as part of a structured learning progression through agen
 
 The hand-rolled stages taught the exact failure modes (markdown-fence parsing, hallucinated tool-skipping, multi-step planning failures, date laundering, output type drift) that frameworks and better models are built to solve. This project uses those lessons directly.
 
-Full learning progression: [learning-agentic-ai](https://github.com/<your-username>/learning-agentic-ai)
+Full learning progression: [learning-agentic-ai](https://https://github.com/avyaya-s/agentic-ai-learning)
